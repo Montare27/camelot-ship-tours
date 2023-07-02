@@ -37,7 +37,7 @@ We welcome contributions to the Ship Tours project. If you want to contribute, p
 5. Once approved, your changes will be merged into the main repository.
 
 ## 📄 License
-The Ship Tours backend project is open source and released under the __MIT License__.
+The Ship Tours backend project is open source and released under the  <ins>MIT License </ins>.
 
 ## 📧 Contact
 If you have any questions or suggestions regarding the Ship Tours project, feel free to contact us at dmitriytkachenko350@gmail.com. We appreciate your interest and support!
